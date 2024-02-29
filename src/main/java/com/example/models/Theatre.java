@@ -1,4 +1,4 @@
-package com.example.demo.models;
+package com.example.models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.ManyToOne;
@@ -7,7 +7,6 @@ import lombok.Getter;
 import lombok.Setter;
 
 import java.util.List;
-import java.util.Scanner;
 
 @Getter
 @Setter
